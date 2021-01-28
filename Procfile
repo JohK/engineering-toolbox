@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser fluidmechanics
+web: voila --port=$PORT --no-browser 

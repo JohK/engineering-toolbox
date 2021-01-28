@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 import ipywidgets as widgets
 def quantity(description, min=0.001, max=1, step=0.00001, value=0.032):
     quantity_item_layout = widgets.Layout(display='flex', flex_flow='row')

@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 from ipywidgets import interactive_output
 import ipywidgets as widgets
 
