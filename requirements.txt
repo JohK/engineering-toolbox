@@ -6,3 +6,4 @@ voila==0.2.6
 ipython==7.12.0
 jupyterlab==3.0.6
 ipywidgets==7.6.3
+ipympl==0.6.3
