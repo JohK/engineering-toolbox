@@ -11,8 +11,8 @@ def header():
 
 After a period of inactivity you may need to reload the webpage for the tool to work properly. If you find yourself using these tools a lot, consider a local installation. Please feel free to contact us at johannes.kneer@nuflo.de for support.
 
-*The code for this tool can be found over at [github](https://github.com/JohK/engineering-toolbox).*  
-*More interactive tools are located at [toolbox.nuflo.de](http://toolbox.nuflo.de).*
+*The code for this tool can be found over at [github](https://github.com/NuFlo-engineering/engineering-toolbox).*  
+*More interactive tools are located at [toolbox.nuflo.eu](http://toolbox.nuflo.eu).*
 
 
 ''' 
